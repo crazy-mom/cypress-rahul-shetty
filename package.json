@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/crazy-mom/cypress-rahul-shetty/issues"
   },
-  "homepage": "https://github.com/crazy-mom/cypress-rahul-shetty#readme"
+  "homepage": "https://github.com/crazy-mom/cypress-rahul-shetty#readme",
+  "dependencies": {
+    "cypress": "^10.3.1"
+  }
 }
